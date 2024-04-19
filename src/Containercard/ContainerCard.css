@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color:hsl(0, 100%, 74%);
+}
+.sedan{
+    background-color: #fff;
+}
+
+article{
+    width: 385px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
